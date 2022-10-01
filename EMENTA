@@ -8,3 +8,19 @@ GIT E GITHUB
     git config --global user.name "Márcio Ferreira"
     git cofig --global user.email "haelioferreira@yahoo.com"
 
+6. EXECUTE O COMANDO git init PARA INICIAR O GIT NO SEU PROJETO.
+7. COMANDO COMMIT PARA COMENTAR AS ALTERACOES;
+git commit -m "Atualizando Repositorio - COmentário das Mudanças"
+8. DEPOIS EXECUTE OS COMANDOS ABAIXO
+git branch -M main
+git remote add origin link_do_repositorio
+git push -u origin main
+
+----------------------------------------
+CASO SEU REPOSITORIO JÁ EXISTA E JÁ ESTEJA CONFIGURADO. 
+APÓS FINALIZAR SUAS ALTERACOES NO PROJETO, BASTA EXECUTAR OS SEGUINTES COMANDOS:
+
+git add .
+git commit -m "Comentário"
+git push -u origin main
+
