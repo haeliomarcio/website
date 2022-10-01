@@ -1,0 +1,10 @@
+GIT E GITHUB
+
+1. INSTALAR O GIT NA MAQUINA - GIT SCM
+2. CRIAR UM REPOSITORIO NO SITE GITHUB
+3. ABRIR O VSCODE E O PROJETO DO SITE
+4. ABRIR O TERMINAL.
+5. EXECUTAR OS COMANDOS ABAIXO PARA IDENTIFICAÇÃO DO DEV.
+    git config --global user.name "Márcio Ferreira"
+    git cofig --global user.email "haelioferreira@yahoo.com"
+
